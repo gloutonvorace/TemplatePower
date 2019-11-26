@@ -1,4 +1,4 @@
-YATSPHP [![Build Status](https://travis-ci.org/Progi1984/YATSPHP.png?branch=master)](https://travis-ci.org/Progi1984/YATSPHP)
+TemplatePower 
 =======
 
-Yet Another System of Template, but in PHP
+http://templatepower.codocad.com/
