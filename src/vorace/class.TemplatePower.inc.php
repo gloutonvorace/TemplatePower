@@ -1,4 +1,5 @@
 <?php
+namespace TemplatePower;
 /* vim: set expandtab tabstop=4 shiftwidth=4: */
 // +----------------------------------------------------------------------+
 // | TemplatePower:                                                       |
